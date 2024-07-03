@@ -157,6 +157,10 @@ export function Home({ data, selectedGame, setSGame, vipAccess = false, setVipAc
         </h1>
 
         <div className="gameGrid borderSpacing" >
+          {<Badge img={rocket} txt={"Crash"} extra={0} setCategory={setCategory} />}
+
+          {<Badge img={slots} txt={"Slots"} extra={0} setCategory={setCategory} />}
+
           {<Badge img={playingcards} txt={"Cassino"} extra={1} setCategory={setCategory} />}
 
           {<Badge img={ball} txt={"Esportes"} extra={2} setCategory={setCategory} />}
@@ -168,8 +172,8 @@ export function Home({ data, selectedGame, setSGame, vipAccess = false, setVipAc
           </div>
           {
             category == null ? <section className="liveGamesGrid">
-             {/*  <GameSection title="Crash" gameType="crash" data={data} setSGame={setSGame} sort="vip" />
-              <GameSection title="Slots" gameType="slots" data={data} setSGame={setSGame} sort="vip" /> */}
+              <GameSection title="Crash" gameType="crash" data={data} setSGame={setSGame} sort="vip" />
+              <GameSection title="Slots" gameType="slots" data={data} setSGame={setSGame} sort="vip" />
               <GameSection title="Casino" gameType="casino" data={data} setSGame={setSGame} sort="vip" />
             </section> : ''
           }
