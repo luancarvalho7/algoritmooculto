@@ -21,7 +21,7 @@
         "link": ""
     }],
     "extrapages": {
-        "bonus": true,
+        "bonus": false,
         "lives": false,
         "tutorial": false
     }
