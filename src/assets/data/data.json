@@ -1,0 +1,51 @@
+[
+    {
+        "game": "Roulette",
+        "vip": false,
+        "profit": 19030,
+        "analyst": ["João V.", "Carlos R."],
+        "onlinePlayers": 223,
+        "gameImage": "https://i.postimg.cc/MphTSg52/Roletas-5.webp",
+        "analystPfp": "https://i.postimg.cc/jS69x7Qx/yellow.png",
+        "ifrCassinoPix": "https://go.aff.7k-partners.com/96tybpon?source_id=app",
+        "ifrSkyBet":"https://eskybet.com/cadastro?afiliado=00",
+        "type": "casino"
+    },
+    {
+        "game": "BacBo",
+        "vip": true,
+        "profit": 26910,
+        "analyst": ["Ícaro S.", "Lilian R."],
+        "onlinePlayers": 178,
+        "gameImage": "https://i.postimg.cc/qqtXz9Pc/bacbo.webp",
+        "analystPfp": "https://i.postimg.cc/FK967HDj/white.png",
+        "ifrCassinoPix": "https://go.aff.7k-partners.com/8v1wexz5?source_id=app",
+        "ifrSkyBet":"https://eskybet.com/cadastro?afiliado=00",
+        "type": "casino"
+    },
+    {
+        "game": "DragonTiger",
+        "vip": true,
+        "profit": 28491,
+        "analyst": ["Vini T.", "Luan C."],
+        "onlinePlayers": 117,
+        "gameImage": "https://i.postimg.cc/ZRsxYTMK/dragon-tigger.webp",
+        "analystPfp": "https://i.postimg.cc/jS69x7Qx/yellow.png",
+        "ifrCassinoPix": "https://go.aff.7k-partners.com/c7zshtfx?source_id=app",
+        "ifrSkyBet":"https://eskybet.com/cadastro?afiliado=00",
+        "type": "casino"
+    },
+    {
+        "game": "FootballStudio",
+        "vip": false,
+        "profit": 27890,
+        "analyst": ["Amin A.", "Anthony L."],
+        "onlinePlayers": 191,
+        "gameImage": "https://i.postimg.cc/dQXjzVC5/football-studio.webp",
+        "analystPfp": "https://i.postimg.cc/SQ5HDqxh/blue.png",
+        "ifrCassinoPix": "https://go.aff.7k-partners.com/593v03c1?source_id=app",
+        "ifrSkyBet":"https://eskybet.com/cadastro?afiliado=00",
+        "type": "casino"
+    
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "logo": "https://i.postimg.cc/ydZYB3hQ/betcheater.png",
+    "affLink": "https://twin108.com/registration?qtag=a35457_t41303_c546_s",
+    "vipCheckout": "https://buy.stripe.com/7sIbJed7G5HT3HGeUU",
+    "banners": {
+        "img2k": "https://i.postimg.cc/T2nY4m3h/deposite30.png",
+        "imgcommunity": "https://i.postimg.cc/sxPjGFN5/participedanossacomunidade.png",
+        "imgvip": "https://i.postimg.cc/m2R2fDPj/vip.png"
+    },
+    "pageheaderes": {
+        "bonus": "https://i.postimg.cc/L6z2LdFx/bg-zero-One.webp",
+        "lives": "https://i.postimg.cc/zDHJDbtZ/bg-Zero-Two.webp"
+    },
+    "vipcta": "https://i.postimg.cc/dQCjfkX9/vipcta22.png",
+    "telegram": "https://t.me/betando2024",
+    "community": "https://t.me/betando2024",
+    "memberArea": [{
+        "title": "",
+        "description": "",
+        "thumb": "",
+        "link": ""
+    }],
+    "extrapages": {
+        "bonus": true,
+        "lives": false,
+        "tutorial": false
+    }
+}
