@@ -36,9 +36,9 @@ export function Bonus({ img, affLink, setFullFill }) {
             <div className="imgheaderBlock"></div>
 
             <div className="bonusContent borderSpacing">
-                <img src="https://twin.gcdn.co/img/logo.9a97fdf6.svg" className="bonusHouse" alt="" />
+                <img src="https://www.vemabet.com/static/media/main-logo.893af77a.svg" className="bonusHouse" alt="" />
                 <div className="bh-txt">
-                    <h3 className='housetitle txt-gradient'>twin</h3>
+                    <h3 className='housetitle txt-gradient'>Vemabet</h3>
                     <h2>Única plataforma onde os
                         analistas trabalham e o BUG Funciona!</h2>
                 </div>
